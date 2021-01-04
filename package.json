@@ -1,0 +1,21 @@
+{
+  "name": "esp8266-messenger",
+  "version": "1.0.0",
+  "description": "Personal project envolving esp8266, PI and Alexa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpr-indevelopment/esp8266-messenger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpr-indevelopment/esp8266-messenger/issues"
+  },
+  "homepage": "https://github.com/gpr-indevelopment/esp8266-messenger#readme",
+  "dependencies": {}
+}
